@@ -37,7 +37,7 @@ If an image is missing, the card automatically shows a dashed "IMG" placeholder 
 4. Add `<script src="Innovations/innovations.js"></script>` before `</body>`.
 5. Make sure the Google Fonts `<link>` tags from `innovations.html` are also in your page `<head>` (or self-host Outfit/Inter if you prefer no external requests).
 
-## Accessibility notes already built in
+## Accessibility notes already built in-
 - Real heading hierarchy (`h1` hero title, `h2` per innovation).
 - `alt` text on every image; decorative icons marked `aria-hidden="true"`.
 - Keyboard-operable cards (`tabindex`) and modal (focus moves to close button on open, returns on close, `Esc` closes it).
